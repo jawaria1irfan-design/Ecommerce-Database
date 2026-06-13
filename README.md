@@ -4,8 +4,8 @@ A relational Ecommerce database collaboratively designed and built in
 SQL Server, serving as the data foundation for our Python EDA project.
 
 ## 👥 Built By
-- [Your Name]
-- [Friend's Name]
+- Jawaria Irfan
+- Bint e Rubab
 
 ## 📐 Schema Overview
 
@@ -28,7 +28,7 @@ SQL Server, serving as the data foundation for our Python EDA project.
 
 ## 🔗 Related Project
 This database is used as the backend for our EDA project:
-👉 [Ecommerce Complete Analysis (Python)](link-to-your-notebook-repo)
+👉 [Ecommerce Complete Analysis (Python)](https://github.com/jawaria1irfan-design/Ecommerce-Database/blob/main/Ecommerce%20portfolio%20analysis%20(1).ipynb)
 
 ## ▶️ How to Use
 
